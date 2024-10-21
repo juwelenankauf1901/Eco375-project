@@ -53,13 +53,15 @@ If you do not source any part of your data from an existing research article or 
 If your data sourced wholly or partly from a research article or book, please provide the reference below (this may be the same as your base article and if so, repeat the citation here). Below this citation, describe, specifically, how you will extend your analysis beyond the analysis reported in the research article.
 
 Please provide your citation in author-date Chicago citation style. You can see the author-date Chicago citation style here (scroll to "Journal Articles").
-
+    - United Nations Development Programme (UNDP). Human Development Report 2019: Beyond Income, Beyond Averages, Beyond Today: Inequalities in Human Development in the 21st Century. New York: United Nations Development Programme, 2019. http://report2019.archive.s3-website-us-east-1.amazonaws.com.
+    - Chainalysis. The 2020 Geography of Cryptocurrency Report: Analysis of Geographic Trends in Cryptocurrency Adoption, Usage, and Regulation. September 2020. https://www.chainalysis.com/blog/2020-global-cryptocurrency-adoption-index-2020/.
 
 Q14) Is your data sourced direct from data provider Is any part of your data directly sourced from a data provider?
     - Multiple data points sourced / web scraped by you directly from one or more data providers
 
 Q15) If data is sourced direct from provider, provide a description. If your data sourced wholly or partly from a data provider: - # NOT DONE
-
+    - The Human Development Index quantifies a countries overall development in three key dimensions: life expectancy (health), education (mean and expected years of schooling) and standard of living (GNI per capita). The HDI scores every country with a composite score between 0 to 1, where higher scores indicate higher development. 
+    - The Global Crypto Adoption Index ranks countries by their grassroots cryptocurrency usage by everyday users rather than large instituational trades. Based on four individual metrics, including dimensions of trading volume, a score between 1 (highest) to 0 (lowest) is assigned to every country. 
 
 Q17) Run a regression of Y on X in your group’s dataset and note the sample size in this regression. Report this number below. Include only the numerical value 
     - 130
@@ -83,6 +85,4 @@ Every time you commit a new submission in GitHub, a PDF of your results (scatter
 
 Q24) Plans moving forward. If you’ve gotten all the way to this question, this means you have an analysis dataset and you can run a simple linear regression and interpret the results. 
     This completes basic feasibility. Moving forward, what are your group’s plans for your project? Please describe these in 1 or 2 short paragraphs below.
-
-
-
+    - Moving forward, our group plans to expand the current analysis by incorporating multiple regression techniques. Specifically, we aim to conduct a difference-in-difference (DiD) analysis to compare OECD and non-OECD member countries. This will allow us to examine whether there are statistically significant differences between these groups, particularly in how certain variables influence outcomes. By doing so, we hope to gain deeper insights into the impact of membership in the OECD on key development indicators.
